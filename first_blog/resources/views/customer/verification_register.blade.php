@@ -1,0 +1,1 @@
+<h1>{{Session::get('username')}} Thanks for register</h1>
